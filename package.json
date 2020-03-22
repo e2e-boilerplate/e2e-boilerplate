@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "bugs": {
     "url": "https://github.com/e2e-boilerplate/e2e-boilerplate/issues"
   },
@@ -41,7 +41,12 @@
   "homepage": "https://github.com/e2e-boilerplate/e2e-boilerplate#readme",
   "keywords": [
     "boilerplate",
-    "e2e"
+    "boilerplate",
+    "e2e",
+    "e2e",
+    "e2e tests",
+    "example",
+    "integration test"
   ],
   "license": "MIT",
   "name": "e2e-boilerplate",
