@@ -1,4 +1,4 @@
-[![GitHub Actions status | e2e-boilerplate/e2e-boilerplate](https://github.com/e2e-boilerplate/e2e-boilerplate/workflows/e2e-boilerplate/badge.svg)](https://github.com/e2e-boilerplate/e2e-boilerplate/actions?workflow=e2e-boilerplate) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Actions status | e2e-boilerplate/e2e-boilerplate](https://github.com/e2e-boilerplate/e2e-boilerplate/workflows/e2e-boilerplate/badge.svg)](https://github.com/e2e-boilerplate/e2e-boilerplate/actions?workflow=e2e-boilerplate) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Buy Me A Coffee](https://img.shields.io/badge/buy-me%20coffee-orange)](https://www.buymeacoffee.com/xgirma)
     
 # E2e-boilerplate
     
