@@ -39,6 +39,11 @@
     "typescript": "3.7.5"
   },
   "homepage": "https://github.com/e2e-boilerplate/e2e-boilerplate#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "keywords": [
     "boilerplate",
     "boilerplate",
@@ -49,6 +54,11 @@
     "integration test"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write"
+    ]
+  },
   "name": "e2e-boilerplate",
   "private": true,
   "repository": {
