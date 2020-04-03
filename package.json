@@ -41,7 +41,7 @@
   "homepage": "https://github.com/e2e-boilerplate/e2e-boilerplate#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "lint-staged --allow-empty"
     }
   },
   "keywords": [
