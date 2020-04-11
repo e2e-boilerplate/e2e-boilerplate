@@ -2,7 +2,7 @@ name: e2e-boilerplate
 'on':
   push: null
   schedule:
-    - cron: 0 1 2-31/2 * *
+    - cron: 20 5 2-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
