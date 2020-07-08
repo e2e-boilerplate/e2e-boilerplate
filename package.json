@@ -4,14 +4,14 @@
     "url": "https://github.com/e2e-boilerplate/e2e-boilerplate/issues"
   },
   "dependencies": {
-    "@angular/animations": "9.0.7",
-    "@angular/common": "9.0.7",
-    "@angular/compiler": "9.0.7",
-    "@angular/core": "9.0.7",
-    "@angular/forms": "9.0.7",
-    "@angular/platform-browser": "9.0.7",
-    "@angular/platform-browser-dynamic": "9.0.7",
-    "@angular/router": "9.0.7",
+    "@angular/animations": "9.1.12",
+    "@angular/common": "9.1.12",
+    "@angular/compiler": "9.1.12",
+    "@angular/core": "9.1.12",
+    "@angular/forms": "9.1.12",
+    "@angular/platform-browser": "9.1.12",
+    "@angular/platform-browser-dynamic": "9.1.12",
+    "@angular/router": "9.1.12",
     "rxjs": "6.5.4",
     "tslib": "1.11.1",
     "zone.js": "0.10.3"
@@ -20,8 +20,8 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "0.900.7",
     "@angular/cli": "9.0.7",
-    "@angular/compiler-cli": "9.0.7",
-    "@angular/language-service": "9.0.7",
+    "@angular/compiler-cli": "9.1.12",
+    "@angular/language-service": "9.1.12",
     "@types/node": "12.12.30",
     "@types/jasmine": "3.5.9",
     "@types/jasminewd2": "2.0.8",
