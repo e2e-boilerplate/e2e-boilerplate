@@ -18,8 +18,8 @@
   },
   "description": "E2e-boilerplate end-to-end test automation boilerplate. ",
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.900.7",
-    "@angular/cli": "9.0.7",
+    "@angular-devkit/build-angular": "0.1000.3",
+    "@angular/cli": "9.1.11",
     "@angular/compiler-cli": "9.0.7",
     "@angular/language-service": "9.0.7",
     "@types/node": "12.12.30",
